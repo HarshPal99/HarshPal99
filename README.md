@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Harsh+Pal;Full-Stack+Developer;AI+Builder;Linux+%26+Cybersecurity+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Harsh+Pal;Front-End+Developer;AI+Builder;Linux+%26+Cybersecurity+Explorer" />
 </p>
 
 ---
@@ -7,7 +7,7 @@
 # 👋 Hi, I'm Harsh Pal
  FrontEnd Developer | AI Enthusiast | Linux Explorer**
 
-**Full-Stack
+**Front End Developer
 1st-year ECE student passionate about building interactive web experiences, experimenting with AI, and exploring cybersecurity.  
 I turn ideas into functional projects — from beautifully animated websites to intelligent AI-powered tools.
 
